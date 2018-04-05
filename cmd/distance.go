@@ -21,8 +21,8 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 
-	"github.com/ynqa/word-embedding/config"
-	"github.com/ynqa/word-embedding/distance"
+	"github.com/mpace965/word-embedding/config"
+	"github.com/mpace965/word-embedding/distance"
 )
 
 // DistanceCmd is the command for calculation of similarity.

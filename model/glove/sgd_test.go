@@ -17,7 +17,7 @@ package glove
 import (
 	"testing"
 
-	"github.com/ynqa/word-embedding/config"
+	"github.com/mpace965/word-embedding/config"
 )
 
 func TestNewSGD(t *testing.T) {

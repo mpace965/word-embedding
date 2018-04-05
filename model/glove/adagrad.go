@@ -17,7 +17,7 @@ package glove
 import (
 	"math"
 
-	"github.com/ynqa/word-embedding/model"
+	"github.com/mpace965/word-embedding/model"
 )
 
 // AdaGrad behaviors as one of GloVe solver.

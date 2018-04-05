@@ -23,8 +23,8 @@ import (
 
 	"github.com/chewxy/lingo/corpus"
 
-	"github.com/ynqa/word-embedding/config"
-	"github.com/ynqa/word-embedding/model"
+	"github.com/mpace965/word-embedding/config"
+	"github.com/mpace965/word-embedding/model"
 )
 
 // MockModel satisfies the interface of Model.

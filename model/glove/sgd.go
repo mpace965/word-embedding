@@ -15,7 +15,7 @@
 package glove
 
 import (
-	"github.com/ynqa/word-embedding/model"
+	"github.com/mpace965/word-embedding/model"
 )
 
 // SGD behaviors as one of GloVe solver.

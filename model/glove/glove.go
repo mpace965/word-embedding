@@ -30,7 +30,7 @@ import (
 	"github.com/chewxy/lingo/corpus"
 	"github.com/pkg/errors"
 
-	"github.com/ynqa/word-embedding/model"
+	"github.com/mpace965/word-embedding/model"
 )
 
 // Glove stores the configs for GloVe models.

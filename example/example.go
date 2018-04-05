@@ -17,7 +17,7 @@ package main
 import (
 	"os"
 
-	"github.com/ynqa/word-embedding/builder"
+	"github.com/mpace965/word-embedding/builder"
 )
 
 func main() {

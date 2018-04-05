@@ -91,6 +91,21 @@
 
 [[projects]]
   branch = "master"
+  name = "github.com/mpace965/word-embedding"
+  packages = [
+    "builder",
+    "cmd",
+    "config",
+    "distance",
+    "model",
+    "model/glove",
+    "model/word2vec",
+    "validate"
+  ]
+  revision = "8e4b0cf83e310ced1adb53b64450c4d3bca7b057"
+
+[[projects]]
+  branch = "master"
   name = "github.com/olekukonko/tablewriter"
   packages = ["."]
   revision = "b8a9be070da40449e501c3c4730a889e42d87a9e"
@@ -157,7 +172,6 @@
   name = "github.com/ynqa/word-embedding"
   packages = [
     "builder",
-    "cmd",
     "config",
     "distance",
     "model",
@@ -209,7 +223,7 @@
     "lapack/lapack64",
     "mat"
   ]
-  revision = "6b03bc22e15aece534f0b4fb96cf6c8f1d885cd0"
+  revision = "698d55ff6ead500c4deb283529de8fb1621dfc13"
 
 [[projects]]
   name = "gopkg.in/cheggaaa/pb.v1"
@@ -260,6 +274,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "ddb53e83670ebc54039bf2d64e4e69ca84c0e93b94e2ec29a11580a35603deee"
+  inputs-digest = "11745559ce46cf8b800167ebd497f7960fc331b862208182b8b7d79bf9441ba5"
   solver-name = "gps-cdcl"
   solver-version = 1

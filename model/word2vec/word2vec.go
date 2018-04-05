@@ -30,7 +30,7 @@ import (
 	"github.com/pkg/errors"
 	"gopkg.in/cheggaaa/pb.v1"
 
-	"github.com/ynqa/word-embedding/model"
+	"github.com/mpace965/word-embedding/model"
 )
 
 // Word2Vec stores all common configs for Word2Vec models.

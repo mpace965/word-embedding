@@ -17,7 +17,7 @@ package main
 import (
 	"os"
 
-	"github.com/ynqa/word-embedding/cmd"
+	"github.com/mpace965/word-embedding/cmd"
 )
 
 func main() {

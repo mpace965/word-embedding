@@ -22,9 +22,9 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 
-	"github.com/ynqa/word-embedding/builder"
-	"github.com/ynqa/word-embedding/config"
-	"github.com/ynqa/word-embedding/validate"
+	"github.com/mpace965/word-embedding/builder"
+	"github.com/mpace965/word-embedding/config"
+	"github.com/mpace965/word-embedding/validate"
 )
 
 // GloveCmd is for Glove command.

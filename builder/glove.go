@@ -18,9 +18,9 @@ import (
 	"github.com/pkg/errors"
 	"github.com/spf13/viper"
 
-	"github.com/ynqa/word-embedding/config"
-	"github.com/ynqa/word-embedding/model"
-	"github.com/ynqa/word-embedding/model/glove"
+	"github.com/mpace965/word-embedding/config"
+	"github.com/mpace965/word-embedding/model"
+	"github.com/mpace965/word-embedding/model/glove"
 )
 
 // GloveBuilder manages the members to build the Model interface.

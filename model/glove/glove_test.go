@@ -20,8 +20,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/ynqa/word-embedding/config"
-	"github.com/ynqa/word-embedding/model"
+	"github.com/mpace965/word-embedding/config"
+	"github.com/mpace965/word-embedding/model"
 )
 
 // MockSolver satisfies the interface of Solver.

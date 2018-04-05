@@ -15,7 +15,7 @@
 package word2vec
 
 import (
-	"github.com/ynqa/word-embedding/model"
+	"github.com/mpace965/word-embedding/model"
 )
 
 // SkipGram is a piece of Word2Vec model.
